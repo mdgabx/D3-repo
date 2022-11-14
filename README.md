@@ -14,3 +14,7 @@ D3 supports many different kinds of input data formats. Then, using its powerful
 
 In the Data Visualization with D3 courses, you'll learn how to work with data to create different charts, graphs, hover elements, and other ingredients to create dynamic and attractive data visualizations.
 
+## things learn
+- bar graph
+- scatter plots with label
+
